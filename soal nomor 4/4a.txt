@@ -1,0 +1,4 @@
+Unit Testing adalah proses pengujian bagian kecil (unit) dari kode sumber untuk memastikan bahwa 
+setiap unit berfungsi sesuai dengan yang diharapkan. Unit testing penting dalam pengembangan perangkat 
+lunak karena membantu menemukan bug lebih awal, memastikan setiap bagian kode bekerja dengan benar secara terpisah, 
+dan meningkatkan kualitas serta maintainability kode.
